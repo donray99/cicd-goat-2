@@ -47,3 +47,4 @@ urllib3==1.26.9
     # via requests
 virtualenv==20.14.0
     # via tox
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
